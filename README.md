@@ -1,29 +1,28 @@
 # SQL
-🎵 SQL Music Store Database Analysis
 
-📌 Project Overview: 
-This project analyzes a Music Store Database using SQL to extract insights about sales, customers, artists, and tracks. The goal is to identify trends, optimize sales strategies, and improve customer engagement.
+📊 SQL Projects Repository:
+Welcome to the SQL Projects Repository, where I explore data analysis, database management, and query optimization using SQL.
+This repository contains multiple SQL projects covering various datasets and use cases.
 
-📂 Dataset Description: 
-The database contains tables related to:
-🎧 Customers – Customer details, locations, and purchase history.
-💿 Albums & Tracks – Music collections, genres, and pricing.
-🎸 Artists – Information about artists and their albums.
-💰 Invoices & Payments – Customer transactions and revenue insights.
-🏬 Employees – Sales representatives and staff details.
+📂 Projects Included:
+🎵 Music Store Database Analysis:
+Analyzing customer purchases, top-selling albums, and revenue trends.
+🍕 Pizza Sales Analysis:
+Analyzing sales trends, top-selling pizzas, and revenue performance.
+Identifying peak order times and customer preferences.
 
-🔍 Key SQL Queries & Insights: 
-✅ Top-selling artists & albums
-✅ Customer purchase behavior & top-spending customers
-✅ Most popular music genres
-✅ Revenue trends over time
-✅ Sales performance by employees
+🔍 Key SQL Concepts Used:
+✔ Data Filtering & Aggregation (WHERE, GROUP BY, HAVING)
+✔ Joins & Subqueries (INNER JOIN, LEFT JOIN, EXISTS)
+✔ Window Functions (ROW_NUMBER(), RANK(), LEAD(), LAG())
+✔ Stored Procedures & Views (CREATE VIEW, CALL Procedure)
+✔ Performance Optimization (Indexes, EXPLAIN ANALYZE)
 
-⚙ Technologies Used
-SQL (PostgreSQL / MySQL / SQLite)
+⚙ Technologies Used:
+SQL Databases: *PostgreSQL* | MySQL | SQLite | MS SQL Server
 
 🤝 Contributions:
-Feel free to fork this repo and contribute by adding new queries or optimizing existing ones.
+Feel free to contribute by adding new SQL queries, datasets, or improving existing ones.
 
-📧 Contact:
-For any query/question , reach out at [yashrajsingh2288@gmail.com] or connect on LinkedIn/GitHub.
+📧 Contact
+For any queries/ question, reach out via [yashrajsingh2288@gmail.com] or connect on LinkedIn/GitHub.
